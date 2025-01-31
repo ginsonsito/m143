@@ -33,8 +33,9 @@ Ich musste ein paar Entscheidungen treffen die ich vorallem nach dem informieren
 
 ## Realisieren
 Dieser Teil ging natürlich am längsten. Ich fing an mit dem erstellen der Ubuntu VM. Ich hatte bereits ein Ubuntu ISO File und ich wusste schon wie man eine VM erstellt. Als das aufgesetzt war habe ich mich direkt rangemacht mit dem Backup. Ich habe angefangen mit dem Folder erstellen. Ich habe es simple Backup gennant und danach schonmal Ordner in den Google Drive gemacht. Diesen nannte ich backup-folder. Die IP bei der VM ist so
-![alt text](image.png)
-192.168.88.100 Habe ich genommen.
+
+![alt text](image-8.png)
+192.168.1.164 Habe ich genommen.
 
 
 #### Backup 
