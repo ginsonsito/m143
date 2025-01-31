@@ -10,11 +10,11 @@ Ich hatte viele Probleme und das Projekt vorher hat nicht mit den Kriterien vorn
 Wie bereits erwähnt habe ich mich am Anfang nicht sehr gut informiert wenn es um Lernziele geht, deshalb musste ich das Projekt in der letzten Woche noch ändern. Ich wollte etwas nützliches machen das einen Sinn hat. Und mit der wenigen Zeit die ich noch übrig hatte wollte ich nicht zu hohe Ziele setzen.
 Ich habe mir überlegt etwas mit einer VM zu machen. Danach habe ich mir überlegt einen Ordner Backup erstellen. Am besten sollte es auch von verschiedenen Geräten möglich sein. Deshalb hatte ich vor RDP auf der VM einzurichten. Ich informierte mich über die VMs als erstes um zu sehen welche am besten sind. Hier ist ein kleiner vergleich von Chat gpt
 #### Hypervisors
-![alt text](image.png)
+![alt text](<Screenshot 2025-01-31 010139.png>)
 Hier habe ich mich für Oracle entschieden, denn ich kannte das bereits von Modulen vorher gekannt.
 
 #### Cloud Plattformen
-![alt text](image-2.png)
+![alt text](<Screenshot 2025-01-31 011229.png>)
 Hier war die Wahl auch wieder Google Drive, weil ich es von früher schon ein ganz wenig kannte. 
 
 #### Remote Zugriff
@@ -36,9 +36,6 @@ Dieser Teil ging natürlich am längsten. Ich fing an mit dem erstellen der Ubun
 ![alt text](image.png)
 192.168.88.100 Habe ich genommen.
 
-![alt text](image-4.png) 
-
-In diesem Bild sieht man bereits mein Testfile ob der Ordner in der VM und Google Drive synchronisiert sind. Bis das funktioniert hat es zum Glück nicht sehr lange gedauert. 
 
 #### Backup 
 Diese Art von Backup ist immer nützlich den es ist einfach ein Ordner der nicht verloren gehen kann. Im privaten ist es auch nützlich für sichere Daten.
@@ -133,13 +130,15 @@ Lösung: Ich habe danach die Logs an Chat GPT geschickt und er hat mich gesagt i
 Natürlich habe ich als erstes kontrolliert ob die Files überhaupt in der Google Drive landen. 
 So sah es aus in der Drive:
 
-![alt text](image-1.png)
+![alt text](m143.png)
 
 und in der VM sah es so aus:
 
 ![alt text](image-2.png)
 
 Ich konnte ausserdem von meinem Windows PC mit rdp auf die ubuntu VM gehen. So sah es aus:
+
+![alt text](image-4.png)
 
 ## Auswertung
 
